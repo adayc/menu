@@ -11,6 +11,6 @@ Al igual que hemos hecho antes, es hora de aplicar los conceptos aprendidos para
 Imagina que estás creando tu primera web interactiva y quieres hacerle un menú de navegación. 
 Tu equipo de diseño te ha pasado estos demos para que repliques:
 
-![recursos](assets/imgs/horizontal/menuhor.gif)
+![recursos](assets/horizontal/imgs/menuhor.gif)
 
 ![recursos](assets/imgs/menuver.gif)
